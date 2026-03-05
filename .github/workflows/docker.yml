@@ -39,5 +39,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | 
-            mcgomezcano/practica7.1:latest 
-            ghcr.io/mcgomezcano/practica7.1:latest 
+            ignmaravi/practica7.1:latest 
+
+            ghcr.io/ignmaravi/practica7.1:latest 
